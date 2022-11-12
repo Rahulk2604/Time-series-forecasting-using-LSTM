@@ -1,3 +1,4 @@
-# Time-series-forecasting-using-LSTM
-An inventory forecasting model build using LSTM
+# Time-series-forecasting
+An inventory forecasting model build using LSTM and fbprophet
+
 
